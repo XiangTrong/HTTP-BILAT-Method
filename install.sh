@@ -1,0 +1,10 @@
+npm install net
+npm install http2
+npm install tls
+npm install cluster
+npm install url
+npm install crypto
+npm install fs
+npm install axios
+npm install cheerio
+npm install colors
